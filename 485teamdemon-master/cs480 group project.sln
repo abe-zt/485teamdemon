@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs480 group project", "cs480 group project.csproj", "{B1665548-3EA3-115E-B9F1-E3B34258188F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1665548-3EA3-115E-B9F1-E3B34258188F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1665548-3EA3-115E-B9F1-E3B34258188F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1665548-3EA3-115E-B9F1-E3B34258188F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1665548-3EA3-115E-B9F1-E3B34258188F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
